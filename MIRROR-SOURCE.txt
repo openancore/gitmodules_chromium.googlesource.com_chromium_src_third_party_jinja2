@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: platform_external_angle
+path: third_party/jinja2
+gitmodules_url: https://chromium.googlesource.com/chromium/src/third_party/jinja2
+fetched_from: https://chromium.googlesource.com/chromium/src/third_party/jinja2
+commit: 2f6f2ff5e4c1d727377f5e1b9e1903d871f41e74
+branch: main
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
